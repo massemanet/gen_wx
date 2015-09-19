@@ -1,6 +1,7 @@
 \#*
 .\#*
 *~
+*.bak
 /.eunit/
 /.rebar/
 /db/
